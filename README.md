@@ -1,1 +1,2 @@
-20211804    이수연
+20211804 suyeon
+kookmin university
