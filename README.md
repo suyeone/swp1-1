@@ -1,2 +1,2 @@
 20211804 이수연
-kookmin Univ. SW com
+국민대학교
